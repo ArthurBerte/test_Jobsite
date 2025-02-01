@@ -1,4 +1,4 @@
-# test_Jobsite
+# test_Jobsity
 This is a repo that I created to comply with a QE test sent to me by Jobsity.
 
 # How to run the project
