@@ -1,0 +1,12 @@
+{
+
+  "orderAndReturnsWarnings": {
+    "wrongInformationWarning": "You entered incorrect data. Please try again."
+  },
+
+  "orderInformationData": {
+    "productName" : "Hero Hoodie",
+    "productSKU": "MH07-XL-Black",
+    "orderAmount": "$54.00"
+  }
+}

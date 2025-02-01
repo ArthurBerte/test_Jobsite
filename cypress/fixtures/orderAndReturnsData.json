@@ -1,0 +1,16 @@
+{
+  "orderAndReturnsData": {
+    "orderId": "000038541",
+    "billingLastName": "Mendes Berte",
+    "email": "arthur.m.berte@hotmail.com",
+    "zipCode": "90291"
+  },
+
+  "orderAndReturnsWrongData": {
+    "orderId": "00038542",
+    "billingLastName": "Campos Berte",
+    "email": "email@email.com",
+    "zipCode": "90921"
+  }
+
+}

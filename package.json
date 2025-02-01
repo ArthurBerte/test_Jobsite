@@ -1,0 +1,19 @@
+{
+  "name": "test_jobsite",
+  "version": "1.0.0",
+  "description": "This is a repo that I created to comply with a QE test sent to me by Jobsite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "allure-commandline": "^2.32.0",
+    "allure-cypress": "^3.1.0",
+    "cypress": "^14.0.1"
+  },
+  "dependencies": {
+    "package-lock.json": "^1.0.0"
+  }
+}
