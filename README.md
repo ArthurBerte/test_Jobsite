@@ -1,5 +1,5 @@
 # test_Jobsite
-This is a repo that I created to comply with a QE test sent to me by Jobsite.
+This is a repo that I created to comply with a QE test sent to me by Jobsity.
 
 # How to run the project
 Follow these steps in order to install and run this automation:
